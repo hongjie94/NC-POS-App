@@ -1,0 +1,229 @@
+[
+    {
+      "category": "Soups",
+      "options":"(Chicken, shrimp or vegetable)",
+      "name": "Tom Yum Koong",
+      "description": "Famous Thai Spicy Soup with mushroom & Thai herbs.",
+      "item_num": null,
+      "price": "4.00",
+      "spicy": true
+    },
+    {
+      "category": "Soups",
+      "options":"(Chicken, shrimp or vegetable)",
+      "name": "Tom Kha",
+      "description": "Coconut milk, mushroom & lime juice.",
+      "item_num": null,
+      "price": "4.00",
+      "spicy": true
+    },
+    {
+      "category": "Soups",
+      "options":null,
+      "name": "Seaweed Tofu Soup",
+      "description": "Seaweed, tofu, egg white & tomato",
+      "item_num": null,
+      "price": "4.00",
+      "spicy": false
+    },
+    {
+      "category": "Salads",
+      "options":null,
+      "name": "Thai Green Salad",
+      "description": "Cucumber, lettuce, tomatoes, bean sprout, & dried bean curd with peanut dressing",
+      "item_num": null,
+      "price": "5.00",
+      "spicy": false
+    },
+    {
+      "category": "Salads",
+      "options":"(Grill chicken, beef or shrimp)",
+      "name": "Yum",
+      "description": "Onions, tomato, lettuce, & Thai herbs marinated in spicy lime juicy sauce",
+      "item_num": null,
+      "price": "6.50",
+      "spicy": false
+    },
+    
+    {
+      "category": "Appetizers",
+      "options":null,
+      "name": "Shrimp Mermaid(5)",
+      "description": "Deep-fried marinated whole shrimp wrapped with egg roll skin served with plum sauce.",
+      "item_num": null,
+      "price": "6.50",
+      "spicy": false
+    },
+    
+    {
+      "category": "Appetizers",
+      "options":null,
+      "name": "Summer roll(3)",
+      "description": "Most famous Vietnamese soft salad rolls with shrimp, Thai herbs, & vermicelli noodles.",
+      "item_num": null,
+      "price": "6.50",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "options":null,
+      "name": "Tao Hoo Todd",
+      "description": "Deep-fried, tofu served with a sweet chili sauce and ground peanut.",
+      "item_num": null,
+      "price": "5.00",
+      "spicy": false
+    },
+    {
+      "category": "Desserts",
+      "options":null,
+      "name": "Fried Banana with Honey(4)",
+      "description": null,
+      "item_num": null,
+      "price": "4.50",
+      "spicy": false
+    },
+    {
+      "category": "Desserts",
+      "options":null,
+      "name": "Mango sticky rice",
+      "description": null,
+      "item_num": null,
+      "price": "5.50",
+      "spicy": false
+    },
+    {
+      "category": "Noodles & Rice",
+      "options":null,
+      "name": "Pad Thai",
+      "description": "Famous Thai noodles sauteed with egg, scallions, dried bean curd, crushed peanuts, and bean sprouts.",
+      "item_num": null,
+      "price": null,
+      "spicy": true
+    },
+    {
+      "category": "Noodles & Rice",
+      "options": null,
+      "name": "Pad Kee Mao (Drunken Noodles)",
+      "description": "Thai style sauteed flat rice noodles, string beans pepper with onions stir-fried with red chili and basil.",
+      "item_num": null,
+      "price": null,
+      "spicy": true
+    },
+    {
+      "category": "Noodles & Rice",
+      "options":null,
+      "name": "Pad See-ew",
+      "description": "Flat rice noodles with egg, broccoli, and stir-fried in a sweet soy sauce.",
+      "item_num": null,
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Noodles & Rice",
+      "options":null,
+      "name": "Thai Basil Fried Rice",
+      "description": "Stir-fried with string bean, onion pepper, Thai basil, and chill sauce.",
+      "item_num": null,
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Noodles & Rice",
+      "options":null,
+      "name": "Pineapple Fried Rice",
+      "description": "Stir-fried with pineapple, cashew nuts, onions, scallion tomato and egg.",
+      "item_num": null,
+      "price": null,
+      "spicy": true
+    },
+    {
+      "category": "Thai Cuisine",
+      "options":null,
+      "name": "Thai Basil",
+      "description": "String bean, onion, basil, pepper, and chili sauce.",
+      "item_num": "M1",
+      "price": null,
+      "spicy": true
+    },
+    {
+      "category": "Thai Cuisine",
+      "options":null,
+      "name": "Thai Spicy",
+      "description": "String bean, bamboo shoots, chili peppers, with special hot sauce.",
+      "item_num": "M2",
+      "price": null,
+      "spicy": true
+    },
+    {
+        "category": "Thai Cuisine",
+        "options":null,
+        "name": "Black Bean Sauce",
+        "description": "Mushroom, scallions, black bean with spinach.",
+        "item_num": "M3",
+        "price": null,
+        "spicy": false
+    },
+    {
+        "category": "Thai Cuisine",
+        "options":null,
+        "name": "Ginger Sauce",
+        "description": "Mushroom, onion, scallion, baby corn, peppers, and ginger.",
+        "item_num": "M3",
+        "price": null,
+        "spicy": false
+    },
+    {
+        "category": "Chef Specials",
+        "options":null,
+        "name": "Thai's Beef Diced with Vietnamese & French Style",
+        "description": "Freshly cut steak dices caramelized with spicy herby Thai's spices mixed with vegetables in garlic and black pepper sauce.",
+        "item_num": "S1",
+        "price": "14.00",
+        "spicy": true
+    },
+    {
+        "category": "Chef Specials",
+        "options":null,
+        "name": "Thai Mango Chicken",
+        "description": "Delicious spicy mango sauce with red onion, tomato, and scallion.",
+        "item_num": "S2",
+        "price": "13.00",
+        "spicy": false
+    },
+    {
+        "category": "Chef Specials",
+        "options":null,
+        "name": "Coconut Shrimp",
+        "description": "Stir-fried with pineapple, mushroom, bell peppers, & water chestnuts in a sweet coconut sauce.",
+        "item_num": "S3",
+        "price": "13.00",
+        "spicy": false
+    },
+    {
+        "category": "Thai Curry",
+        "options":null,
+        "name": "Red Curry",
+        "description": "Bamboo shoots, string beans, pepper, basil, and coconut milk.",
+        "item_num": "C1",
+        "price": null,
+        "spicy": true
+    },
+    {
+        "category": "Thai Curry",
+        "options":null,
+        "name": "Green Curry",
+        "description": "Eggplant, bamboo shoots, string beans, pepper, basil, and coconut milk.",
+        "item_num": "C2",
+        "price": null,
+        "spicy": true
+    },
+    {
+        "category": "Thai Curry",
+        "options":null,
+        "name": "Massaman Curry",
+        "description": "Coconut milk, potatoes, carrots, onions, and peanuts.",
+        "item_num": "C3",
+        "price": null,
+        "spicy": false
+    }
+]    

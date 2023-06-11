@@ -1,0 +1,2012 @@
+[
+    {
+      "category": "Appetizers",
+      "name": "Chicken Finger (4)",
+      "description": null,
+      "item_num": "1",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "1.75",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Roast Pork Egg Roll (1)",
+      "description": null,
+      "item_num": "2",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "1.85",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Shrimp Egg Roll (1)",
+      "description": null,
+      "item_num": "3",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "1.95",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Spring Roll (1)",
+      "description": null,
+      "item_num": "3a",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "1.85",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Shrimp Toast (2)",
+      "description": null,
+      "item_num": "4",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "5.85",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Crab Rangoon (8)",
+      "description": null,
+      "item_num": "5",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "6.20",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Barbecued Spare Ribs",
+      "description": null,
+      "item_num": "6",
+      "pt_price": "8.15 (S)",
+      "qt_price": "13.60 (L)",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Dim Sum",
+      "description": null,
+      "item_num": "7",
+      "pt_price": "7.70 (8)",
+      "qt_price": "11.95 (16)",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Crispy Fried Wonton (10)",
+      "description": "(With Sweet & Sour Sauce)",
+      "item_num": "8",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "6.25",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Chicken Wings (4)",
+      "description": null,
+      "item_num": "9",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.90",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Fried Baby Shrimp",
+      "description": null,
+      "item_num": "10",
+      "pt_price": "6.90 (15)",
+      "qt_price": "11.65 (30)",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Fried or Steamed Dumpling (8)",
+      "description": null,
+      "item_num": "11",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.55",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Bar-B-Q Satay Steak or Chicken Stick (4)",
+      "description": null,
+      "item_num": "12",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "8.00",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Pu Pu Platter",
+      "description": null,
+      "item_num": "13",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "14.25",
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Bar-B-Q Boneless Ribs",
+      "description": null,
+      "item_num": "14",
+      "pt_price": "8.10 (S)",
+      "qt_price": "13.40 (L)",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Appetizers",
+      "name": "Sugar Biscuit (10)",
+      "description": null,
+      "item_num": "14a",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "5.60",
+      "spicy": false
+    },
+    {
+      "category": "Soups",
+      "name": "Roast Pork Wonton Soup",
+      "description": null,
+      "item_num": "15",
+      "pt_price": "2.95",
+      "qt_price": "4.35",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Soups",
+      "name": "Egg Drop Soup",
+      "description": null,
+      "item_num": "16",
+      "pt_price": "2.75",
+      "qt_price": "4.30",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Soups",
+      "name": "Chicken Rice or Noodle Soup",
+      "description": null,
+      "item_num": "17",
+      "pt_price": "2.75",
+      "qt_price": "4.30",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Soups",
+      "name": "Vegetable Soup",
+      "description": null,
+      "item_num": "18",
+      "pt_price": "3.20",
+      "qt_price": "4.60",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Soups",
+      "name": "Hot & Sour Soup",
+      "description": null,
+      "item_num": "19",
+      "pt_price": "3.35",
+      "qt_price": "5.35",
+      "price": null,
+      "spicy": true
+    },
+    {
+      "category": "Soups",
+      "name": "Subgum w. Wonton Soup",
+      "description": null,
+      "item_num": "20",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "6.35",
+      "spicy": false
+    },
+    {
+      "category": "Soups",
+      "name": "Seafood w. Bean Cake Soup",
+      "description": null,
+      "item_num": "21",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "6.60",
+      "spicy": false
+    },
+    {
+      "category": "Chow Mein",
+      "name": "Chicken Chow Mein",
+      "description": "(All White Meat)",
+      "item_num": "22",
+      "pt_price": "6.30",
+      "qt_price": "10.15",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chow Mein",
+      "name": "Roast Pork Chow Mein",
+      "description": null,
+      "item_num": "23",
+      "pt_price": "6.20",
+      "qt_price": "9.75",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chow Mein",
+      "name": "Vegetable Chow Mein",
+      "description": null,
+      "item_num": "24",
+      "pt_price": "6.20",
+      "qt_price": "9.65",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chow Mein",
+      "name": "Beef Chow Mein",
+      "description": null,
+      "item_num": "25",
+      "pt_price": "6.50",
+      "qt_price": "10.40",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chow Mein",
+      "name": "Shrimp Chow Mein",
+      "description": null,
+      "item_num": "26",
+      "pt_price": "6.85",
+      "qt_price": "11.15",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chow Mein",
+      "name": "House Special Chow Mein",
+      "description": "(Shrimp, Chicken, Roast Pork)",
+      "item_num": "29",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.10",
+      "spicy": false
+    },
+    {
+      "category": "Chop Suey",
+      "name": "Roast Pork Chop Suey",
+      "description": null,
+      "item_num": "31",
+      "pt_price": "6.30",
+      "qt_price": "10.10",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chop Suey",
+      "name": "Chicken Chop Suey",
+      "description": null,
+      "item_num": "32",
+      "pt_price": "6.40",
+      "qt_price": "10.35",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chop Suey",
+      "name": "Shrimp Chop Suey",
+      "description": null,
+      "item_num": "33",
+      "pt_price": "6.80",
+      "qt_price": "11.10",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chop Suey",
+      "name": "Vegetable Chop Suey",
+      "description": null,
+      "item_num": "34",
+      "pt_price": "6.05",
+      "qt_price": "9.70",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chop Suey",
+      "name": "Beef Chop Suey",
+      "description": null,
+      "item_num": "35",
+      "pt_price": "6.45",
+      "qt_price": "10.55",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Fried Rice",
+      "name": "Vegetable Fried Rice",
+      "description": null,
+      "item_num": "37",
+      "pt_price": "5.70",
+      "qt_price": "9.25",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Fried Rice",
+      "name": "Roast Pork Fried Rice",
+      "description": null,
+      "item_num": "38",
+      "pt_price": "5.95",
+      "qt_price": "9.70",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Fried Rice",
+      "name": "Shrimp Fried Rice",
+      "description": null,
+      "item_num": "39",
+      "pt_price": "6.55",
+      "qt_price": "10.95",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Fried Rice",
+      "name": "Chicken Fried Rice",
+      "description": null,
+      "item_num": "40",
+      "pt_price": "5.95",
+      "qt_price": "9.95",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Fried Rice",
+      "name": "Beef Fried Rice",
+      "description": null,
+      "item_num": "41",
+      "pt_price": "6.35",
+      "qt_price": "10.20",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Fried Rice",
+      "name": "Young Chow Fried Rice",
+      "description": null,
+      "item_num": "43",
+      "pt_price": "6.70",
+      "qt_price": "11.40",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Lo Mein",
+      "name": "Vegetable Lo Mein",
+      "description": null,
+      "item_num": "44",
+      "pt_price": "5.80",
+      "qt_price": "9.50",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Lo Mein",
+      "name": "Roast Pork Lo Mein",
+      "description": null,
+      "item_num": "45",
+      "pt_price": "6.05",
+      "qt_price": "10.00",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Lo Mein",
+      "name": "Chicken Lo Mein",
+      "description": null,
+      "item_num": "46",
+      "pt_price": "6.15",
+      "qt_price": "10.25",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Lo Mein",
+      "name": "Shrimp Lo Mein",
+      "description": null,
+      "item_num": "47",
+      "pt_price": "6.55",
+      "qt_price": "11.00",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Lo Mein",
+      "name": "Beef Lo Mein",
+      "description": null,
+      "item_num": "48",
+      "pt_price": "6.55",
+      "qt_price": "10.75",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Lo Mein",
+      "name": "Special Lo Mein",
+      "description": "(Chicken, Shrimp, Roast Pork)",
+      "item_num": "50",
+      "pt_price": "7.00",
+      "qt_price": "11.50",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Beef",
+      "name": "Beef w. Broccoli",
+      "description": null,
+      "item_num": "51",
+      "pt_price": "7.05",
+      "qt_price": "11.60",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Beef",
+      "name": "Pepper Steak w. Onions",
+      "description": null,
+      "item_num": "52",
+      "pt_price": "7.00",
+      "qt_price": "11.40",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Beef",
+      "name": "Beef w. Mixed Vegetables",
+      "description": null,
+      "item_num": "53",
+      "pt_price": "7.25",
+      "qt_price": "11.80",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Beef",
+      "name": "Beef w. Chinese Vegetables",
+      "description": null,
+      "item_num": "54",
+      "pt_price": "7.05",
+      "qt_price": "11.40",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Beef",
+      "name": "Beef w. Oyster Sauce",
+      "description": null,
+      "item_num": "55",
+      "pt_price": "7.25",
+      "qt_price": "11.60",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Beef",
+      "name": "Beef w. Mushrooms",
+      "description": null,
+      "item_num": "56",
+      "pt_price": "7.25",
+      "qt_price": "12.10",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Beef",
+      "name": "Beef w. Snow Peas",
+      "description": null,
+      "item_num": "57",
+      "pt_price": "7.45",
+      "qt_price": "12.00",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Beef",
+      "name": "Curry Beef w. Onions",
+      "description": null,
+      "item_num": "58",
+      "pt_price": "6.85",
+      "qt_price": "11.30",
+      "price": null,
+      "spicy": true
+    },
+    {
+      "category": "Beef",
+      "name": "Beef w. Black Bean Sauce",
+      "description": null,
+      "item_num": "59",
+      "pt_price": "7.05",
+      "qt_price": "11.40",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Pork",
+      "name": "Roast Pork w. Broccoli",
+      "description": null,
+      "item_num": "60",
+      "pt_price": "6.65",
+      "qt_price": "11.15",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Pork",
+      "name": "Roast Pork w. Mixed Vegetables",
+      "description": null,
+      "item_num": "61",
+      "pt_price": "6.65",
+      "qt_price": "11.15",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Pork",
+      "name": "Roast Pork w. Chinese Vegetables",
+      "description": null,
+      "item_num": "62",
+      "pt_price": "6.55",
+      "qt_price": "10.90",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Pork",
+      "name": "Roast Pork w. Mushrooms",
+      "description": null,
+      "item_num": "63",
+      "pt_price": "6.80",
+      "qt_price": "11.15",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Pork",
+      "name": "Roast Pork w. Pepper & Onion",
+      "description": null,
+      "item_num": "64",
+      "pt_price": "6.65",
+      "qt_price": "11.15",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Pork",
+      "name": "Roast Pork w. Snow Peas",
+      "description": null,
+      "item_num": "65",
+      "pt_price": "7.05",
+      "qt_price": "11.90",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Pork",
+      "name": "Roast Pork w. Black Bean Sauce",
+      "description": null,
+      "item_num": "66",
+      "pt_price": "6.80",
+      "qt_price": "11.15",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chicken",
+      "name": "Chicken w. Broccoli",
+      "description": null,
+      "item_num": "67",
+      "pt_price": "6.80",
+      "qt_price": "11.30",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chicken",
+      "name": "Chicken w. Mixed Vegetables",
+      "description": null,
+      "item_num": "68",
+      "pt_price": "6.80",
+      "qt_price": "11.30",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chicken",
+      "name": "Moo Goo Gai Pan",
+      "description": null,
+      "item_num": "69",
+      "pt_price": "6.80",
+      "qt_price": "11.25",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chicken",
+      "name": "Chicken w. Snow Peas",
+      "description": null,
+      "item_num": "70",
+      "pt_price": "7.05",
+      "qt_price": "11.90",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chicken",
+      "name": "Chicken w. Black Bean Sauce",
+      "description": null,
+      "item_num": "71",
+      "pt_price": "6.70",
+      "qt_price": "11.25",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chicken",
+      "name": "Pepper Chicken w. Onion",
+      "description": null,
+      "item_num": "72",
+      "pt_price": "6.70",
+      "qt_price": "11.25",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Chicken",
+      "name": "Curry Chicken w. Onions",
+      "description": null,
+      "item_num": "73",
+      "pt_price": "6.70",
+      "qt_price": "11.25",
+      "price": null,
+      "spicy": true
+    },
+    {
+      "category": "Seafood",
+      "name": "Shrimp w. Broccoli",
+      "description": null,
+      "item_num": "74",
+      "pt_price": "7.40",
+      "qt_price": "12.45",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Seafood",
+      "name": "Shrimp w. Lobster Sauce",
+      "description": null,
+      "item_num": "75",
+      "pt_price": "7.40",
+      "qt_price": "12.45",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Seafood",
+      "name": "Plain Lobster Sauce",
+      "description": null,
+      "item_num": "76",
+      "pt_price": "5.05",
+      "qt_price": "7.90",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Seafood",
+      "name": "Shrimp w. Snow Peas",
+      "description": null,
+      "item_num": "77",
+      "pt_price": "7.55",
+      "qt_price": "12.90",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Seafood",
+      "name": "Shrimp w. Black Bean Sauce",
+      "description": null,
+      "item_num": "78",
+      "pt_price": "7.25",
+      "qt_price": "12.40",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Seafood",
+      "name": "Shrimp w. Mixed Vegetables",
+      "description": null,
+      "item_num": "79",
+      "pt_price": "7.40",
+      "qt_price": "12.45",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Seafood",
+      "name": "Pepper Shrimp w. Onion",
+      "description": null,
+      "item_num": "80",
+      "pt_price": "6.90",
+      "qt_price": "12.20",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Seafood",
+      "name": "Shrimp w. Chinese Vegetable",
+      "description": null,
+      "item_num": "81",
+      "pt_price": "7.00",
+      "qt_price": "12.20",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Seafood",
+      "name": "Curry Shrimp w. Onions",
+      "description": null,
+      "item_num": "82",
+      "pt_price": "7.15",
+      "qt_price": "12.45",
+      "price": null,
+      "spicy": true
+    },
+    {
+      "category": "Sweet & Sour",
+      "name": "Sweet & Sour Pork",
+      "description": null,
+      "item_num": "83",
+      "pt_price": "6.55",
+      "qt_price": "10.40",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Sweet & Sour",
+      "name": "Sweet & Sour Chicken",
+      "description": null,
+      "item_num": "84",
+      "pt_price": "6.55",
+      "qt_price": "10.40",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Sweet & Sour",
+      "name": "Sweet & Sour Shrimp",
+      "description": null,
+      "item_num": "85",
+      "pt_price": "7.30",
+      "qt_price": "12.20",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Sweet & Sour",
+      "name": "Sweet & Sour Combo",
+      "description": "(Pork, Chicken, Shrimp mixed together)",
+      "item_num": "86",
+      "pt_price": "7.15",
+      "qt_price": "11.95",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Vegetable Dishes",
+      "name": "Vegetables Delights",
+      "description": null,
+      "item_num": "87",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.40",
+      "spicy": false
+    },
+    {
+      "category": "Vegetable Dishes",
+      "name": "Stirred Fried Chinese Vegetables",
+      "description": null,
+      "item_num": "88",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "8.95",
+      "spicy": false
+    },
+    {
+      "category": "Vegetable Dishes",
+      "name": "Broccoli Fried Chinese Vegetables",
+      "description": null,
+      "item_num": "89",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.10",
+      "spicy": false
+    },
+    {
+      "category": "Vegetable Dishes",
+      "name": "Broccoli w. Oyster Sauce",
+      "description": null,
+      "item_num": "90",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.20",
+      "spicy": false
+    },
+    {
+      "category": "Vegetable Dishes",
+      "name": "Broccoli w. Garlic Sauce",
+      "description": null,
+      "item_num": "91",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.30",
+      "spicy": true
+    },
+    {
+      "category": "Vegetable Dishes",
+      "name": "Stirred Fried Snow Peas",
+      "description": null,
+      "item_num": "92",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.20",
+      "spicy": false
+    },
+    {
+      "category": "Vegetable Dishes",
+      "name": "Eggplant w. Garlic Sauce",
+      "description": null,
+      "item_num": "93",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.30",
+      "spicy": true
+    },
+    {
+      "category": "Chow Fun or Rice Noodles",
+      "name": "Vegetable Chow Fun or Rice Noodles",
+      "description": null,
+      "item_num": "94",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.65",
+      "spicy": false
+    },
+    {
+      "category": "Chow Fun or Rice Noodles",
+      "name": "Roast Pork Chow Fun or Rice Noodles",
+      "description": null,
+      "item_num": "95",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.95",
+      "spicy": false
+    },
+    {
+      "category": "Chow Fun or Rice Noodles",
+      "name": "Chicken Chow Fun or Rice Noodles",
+      "description": null,
+      "item_num": "96",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.20",
+      "spicy": false
+    },
+    {
+      "category": "Chow Fun or Rice Noodles",
+      "name": "Shrimp Chow Fun or Rice Noodles",
+      "description": null,
+      "item_num": "97",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.45",
+      "spicy": false
+    },
+    {
+      "category": "Chow Fun or Rice Noodles",
+      "name": "Beef Chow Fun or Rice Noodles",
+      "description": null,
+      "item_num": "98",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.45",
+      "spicy": false
+    },
+    {
+      "category": "Chow Fun or Rice Noodles",
+      "name": "House Special Chow Fun or Rice Noodles",
+      "description": "(Chicken, Shrimp, Roast Pork)",
+      "item_num": "99",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.65",
+      "spicy": false
+    },
+    {
+      "category": "Chow Fun or Rice Noodles",
+      "name": "Singapore Chow Main Fun",
+      "description": null,
+      "item_num": "99a",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.65",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Seafood Delight",
+      "description": "(Crab meat, Shrimp, Lobster & Scallops with mix with vegetables.)",
+      "item_num": "S1",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "14.80",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Chow Sam Sin",
+      "description": "(Chicken, Beef, Shrimp & Broccoli.)",
+      "item_num": "S2",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.50",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Lake Tung Ting Shrimp",
+      "description": "(Shrimp with snow peas and straw mushroom, winter bamboo shoots and baby corn in white sauce.)",
+      "item_num": "S3",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "13.30",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Boneless Chicken",
+      "description": "(Deep fried chicken with mix vegetables.)",
+      "item_num": "S4",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.50",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Subgum Wonton",
+      "description": "(Shrimp lobster, chicken and roast pork with mix vegetables (4 crispy fried wonton.)",
+      "item_num": "S5",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "13.30",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Chow Har Kew",
+      "description": "(Deep fried baby with mix vegetables.)",
+      "item_num": "S6",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "13.10",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Four Seasons",
+      "description": "(Shrimp, chicken, beef, roast pork with mixed vegetables.)",
+      "item_num": "S7",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "13.10",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Lemon Chicken",
+      "description": null,
+      "item_num": "S8",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.85",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Dragon & Phoenix",
+      "description": null,
+      "item_num": "S9",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "13.80",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Seafood w. Lobster Sauce",
+      "description": "(Shrimp, lobster & scallops.)",
+      "item_num": "S10",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "14.30",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Wor Shu Duck",
+      "description": "(Mix Vegetables with Brown Sauce.)",
+      "item_num": "S12",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.65",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "House Special Duck",
+      "description": "(Shrimp, chicken, roast pork, with brown sauce.)",
+      "item_num": "S14",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "13.55",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Cantonese Dishes",
+      "name": "Happy Family",
+      "description": "(Shrimp, lobster, scallop, chicken, beef & roast pork with mix vegetables.)",
+      "item_num": "S15",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "14.40",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Kung Po Chicken",
+      "description": null,
+      "item_num": "H1",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.50",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Kung Po Shrimp",
+      "description": null,
+      "item_num": "H2",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.35",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Hot & Spicy Beef",
+      "description": null,
+      "item_num": "H3",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.80",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Twice Cooked Pork",
+      "description": null,
+      "item_num": "H4",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.10",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Hot & Spicy Shrimp",
+      "description": null,
+      "item_num": "H6",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.40",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Beef Szechuan Style",
+      "description": null,
+      "item_num": "H7",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.80",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Chicken Szechuan Style",
+      "description": null,
+      "item_num": "H7a",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.50",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Double Delight Szechuan Style",
+      "description": "(Chicken & Shrimp)",
+      "item_num": "H8",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.35",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Sliced Pork or Chicken w. Garlic Sauce",
+      "description": null,
+      "item_num": "H9",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.50",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Shrimp w. Garlic Sauce",
+      "description": null,
+      "item_num": "H10",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.55",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Double Delight w. Garlic Sauce",
+      "description": "(Chicken & Shrimp)",
+      "item_num": "H11",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.35",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Crispy Shrimp Szechuan Style",
+      "description": null,
+      "item_num": "H12",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.80",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Beef Hunan Style",
+      "description": null,
+      "item_num": "H14",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.80",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Chicken Hunan Style",
+      "description": null,
+      "item_num": "H14a",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.50",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Moo Shu Vegetables",
+      "description": "(with 5 pancakes)",
+      "item_num": "H15",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.00",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Moo Shu Pork",
+      "description": "(with 5 pancakes)",
+      "item_num": "H16",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.75",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Moo Shu Chicken",
+      "description": "(with 5 pancakes)",
+      "item_num": "H17",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.80",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Moo Shu Shrimp",
+      "description": "(with 5 pancakes)",
+      "item_num": "H18",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.30",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Chicken w. Cashew Nuts",
+      "description": null,
+      "item_num": "H19",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.40",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Shrimp w. Cashew Nuts",
+      "description": null,
+      "item_num": "H20",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.50",
+      "spicy": false
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "General tso's or Sesame Chicken",
+      "description": null,
+      "item_num": "H21",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.20",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Orange flavor Chicken",
+      "description": null,
+      "item_num": "H22",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.20",
+      "spicy": true
+    },
+    {
+      "category": "Chef's Specil Szechuan & Hunan Dishes",
+      "name": "Bean Curd (Home Style)",
+      "description": "(Vegetable Szechaun Sauce)",
+      "item_num": "H23",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.80",
+      "spicy": true
+    },
+    {
+      "category": "Egg Foo Young",
+      "name": "Roast Pork Egg Foo Young",
+      "description": null,
+      "item_num": "100",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.45",
+      "spicy": false
+    },
+    {
+      "category": "Egg Foo Young",
+      "name": "Chicken Egg Foo Young",
+      "description": null,
+      "item_num": "101",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.45",
+      "spicy": false
+    },
+    {
+      "category": "Egg Foo Young",
+      "name": "Shrimp Egg Foo Young",
+      "description": null,
+      "item_num": "102",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.05",
+      "spicy": false
+    },
+    {
+      "category": "Egg Foo Young",
+      "name": "Mushroom Egg Foo Young",
+      "description": null,
+      "item_num": "103",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "8.90",
+      "spicy": false
+    },
+    {
+      "category": "Egg Foo Young",
+      "name": "House Special Egg Foo Young",
+      "description": "(Chicken, Shrimp, Roast pork)",
+      "item_num": "104",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.15",
+      "spicy": false
+    },
+    {
+      "category": "Suggestions",
+      "name": "Chicken & Shrimp",
+      "description": null,
+      "item_num": "A1",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "12.30",
+      "spicy": false
+    },
+    {
+      "category": "Suggestions",
+      "name": "Beef & Roast Pork",
+      "description": null,
+      "item_num": "A2",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "11.80",
+      "spicy": false
+    },
+    {
+      "category": "Suggestions",
+      "name": "Chicken & Scallops",
+      "description": null,
+      "item_num": "A3",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "13.80",
+      "spicy": false
+    },
+    {
+      "category": "Suggestions",
+      "name": "Shrimp & Scallops",
+      "description": null,
+      "item_num": "A4",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "14.35",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Chicken or Roast Pork Chow Mein",
+      "description": null,
+      "item_num": "C1",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.35",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Beef or Shrimp Chow Mein",
+      "description": null,
+      "item_num": "C2",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.80",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Pepper Steak w. Onion",
+      "description": null,
+      "item_num": "C3",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.80",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Chicken or Roast Pork w. Chinese Vegetables",
+      "description": null,
+      "item_num": "C4",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.60",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Chicken or Roast Pork w. Broccoli",
+      "description": null,
+      "item_num": "C5",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.80",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Shrimp w. Lobster Sauce",
+      "description": null,
+      "item_num": "C6",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.15",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Chicken or Roast Pork w. Mushroom",
+      "description": null,
+      "item_num": "C7",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.80",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Sweet & Sour Chicken or Pork",
+      "description": null,
+      "item_num": "C8",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.60",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "BBQ Spare Ribs",
+      "description": null,
+      "item_num": "C9",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.80",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Chicken or Roast Pork Egg Foo Young",
+      "description": null,
+      "item_num": "C10",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.60",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Chicken or Roast Pork Lo Mein",
+      "description": null,
+      "item_num": "C11",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.60",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Chicken or Pork with Garlic Sauce",
+      "description": null,
+      "item_num": "C12",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.10",
+      "spicy": true
+    },
+    {
+      "category": "Combination Plates",
+      "name": "General Tso's or Sesame Chicken",
+      "description": null,
+      "item_num": "C13",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.50",
+      "spicy": true
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Orange flavor Chicken",
+      "description": null,
+      "item_num": "C14",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.50",
+      "spicy": true
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Boneless Spare Ribs or Chicken",
+      "description": null,
+      "item_num": "C15",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.30",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Hot & Spicy Shrimp or Beef",
+      "description": null,
+      "item_num": "C16",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.10",
+      "spicy": true
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Shrimp or Beef w. Broccoli",
+      "description": null,
+      "item_num": "C17",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.30",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Shrimp or Beef Lo Mein",
+      "description": null,
+      "item_num": "C18",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.70",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Shrimp with Garlic Sauce",
+      "description": null,
+      "item_num": "C19",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.50",
+      "spicy": true
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Chicken w. Cashew Nuts",
+      "description": null,
+      "item_num": "C20",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.70",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Kung Pao Chicken",
+      "description": null,
+      "item_num": "C21",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "9.70",
+      "spicy": true
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Shrimp w. Cashew Nuts",
+      "description": null,
+      "item_num": "C22",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.15",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Kung Pao Shrimp",
+      "description": null,
+      "item_num": "C23",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.15",
+      "spicy": true
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Four Seasons",
+      "description": null,
+      "item_num": "C24",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.50",
+      "spicy": false
+    },
+    {
+      "category": "Combination Plates",
+      "name": "Double Delight w. Garlic Sauce",
+      "description": null,
+      "item_num": "C25",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "10.50",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Chicken or Roast Pork Chow Mein",
+      "description": null,
+      "item_num": "L1",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.65",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Chicken or Roast Pork Lo Mein",
+      "description": null,
+      "item_num": "L2",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.65",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Chicken or Roast Pork Egg Foo Young",
+      "description": null,
+      "item_num": "L3",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.65",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Mixed Vegetables",
+      "description": null,
+      "item_num": "L4",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.65",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Vegetable Delight",
+      "description": null,
+      "item_num": "L5",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.65",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Brocoli with Garlic Sauce",
+      "description": null,
+      "item_num": "L6",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.65",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Chicken or Roast Pork with Chinese Vegetables",
+      "description": null,
+      "item_num": "L7",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.65",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": " Chicken or Roast Pork with Mixed Vegetables",
+      "description": null,
+      "item_num": "L8",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Sweet & Sour Chicken or Pork",
+      "description": null,
+      "item_num": "L9",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Sweet & Sour Shrimp",
+      "description": null,
+      "item_num": "L10",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Double Cooked Pork ",
+      "description": null,
+      "item_num": "L11",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Chicken or Pork with Mushroom",
+      "description": null,
+      "item_num": "L12",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Beef with Green Pepper or Mixed Vegetables",
+      "description": null,
+      "item_num": "L13",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.95",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Shrimp with Green Pepper or Mixed Vegetables",
+      "description": null,
+      "item_num": "L14",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "8.00",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Chicken Wings (3)",
+      "description": null,
+      "item_num": "L15",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "8.00",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Chicken or Pork with Broccoli ",
+      "description": null,
+      "item_num": "L16",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Beef with Broccoli",
+      "description": null,
+      "item_num": "L17",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.95",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Hunan Chicken or Roast Pork",
+      "description": null,
+      "item_num": "L18",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Sezchuam Chicken or Roast Pork",
+      "description": null,
+      "item_num": "L19",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Chicken or Roast Pork with Garlic Sauce",
+      "description": null,
+      "item_num": "L20",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Kung Pao Chicken",
+      "description": null,
+      "item_num": "L21",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Hot & Spicy Beef or Shrimp ",
+      "description": null,
+      "item_num": "L22",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.95",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Chicken with Cashew Nuts",
+      "description": null,
+      "item_num": "L23",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Orange Flavor Chicken",
+      "description": null,
+      "item_num": "L24",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "8.00",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Shrimp or Beef Lo Mein",
+      "description": null,
+      "item_num": "L25",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.95",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Shrimp or Beef Chow Mein",
+      "description": null,
+      "item_num": "L26",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.95",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Shrimp with Lobster Sauce",
+      "description": null,
+      "item_num": "L27",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.95",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Shrimp with Broccoli",
+      "description": null,
+      "item_num": "L28",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "8.00",
+      "spicy": false
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Shrimp with Garlic Sauce",
+      "description": null,
+      "item_num": "L29",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "8.00",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "General Tso's or Sesame Chicken",
+      "description": null,
+      "item_num": "L30",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "8.00",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Curry Chicken",
+      "description": null,
+      "item_num": "L31",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "7.75",
+      "spicy": true
+    },
+    {
+      "category": "Lunch Specil",
+      "name": "Boneless Spare Ribs",
+      "description": null,
+      "item_num": "L32",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "8.00",
+      "spicy": false
+    },
+    {
+      "category": "Side Order",
+      "name": "White Rice",
+      "description": null,
+      "item_num": "Side1",
+      "pt_price": "2.50 (Pt)",
+      "qt_price": "3.75 (Qt)",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Side Order",
+      "name": "Fried Noddles",
+      "description": null,
+      "item_num": "Side2",
+      "pt_price": "0.70 (S)",
+      "qt_price": "0.90 (L)",
+      "price": null,
+      "spicy": false
+    },
+    {
+      "category": "Side Order",
+      "name": "Fortune Cookies",
+      "description": null,
+      "item_num": "Side3",
+      "pt_price": null,
+      "qt_price": null,
+      "price": "0.50",
+      "spicy": false
+    }
+  ]

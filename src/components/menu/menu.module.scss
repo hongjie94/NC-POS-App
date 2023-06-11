@@ -1,0 +1,97 @@
+.Menu {
+  background-color: #000000;
+  padding: 0rem;
+  color: #ffffff;
+  height: 100vh;
+}
+
+.logo {
+  background-color: #121212;
+  border-radius: 0px;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+@font-face {
+  font-family: Gilroy-Light;
+  src: url(../../assets/fonts/Gilroy-Light.otf);
+}
+
+.menuOptions {
+  border-radius: 2px;
+  color: #747374;
+  font-family: Gilroy-Light;
+  height: auto;
+  height: 18vh;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.menuOptions > span {
+  display: block;
+  margin: 1.5rem 0;
+  font-size: clamp(16px, 3vw, 20px);
+  padding: 0.75rem;
+  font-weight: 800;
+  cursor: pointer;
+  text-align: center;
+}
+
+hr {
+  height: 1.5px;
+  border-radius: 32px;
+  background-color: #747374;
+  border: none;
+}
+
+.menuOptions > span:hover {
+  background-color:  #2d2d2d;
+  color: #ffffff;
+  font-family: Gilroy-Light;
+  border-radius: 5px;
+}
+
+.menuActive {
+  background-color: #2d2d2d;
+  color: #ffffff;
+  font-family: Gilroy-Light;
+  border-radius: 5px;
+}
+
+.cate_list {
+  margin-top: 1rem;
+  text-decoration-style: unset;
+  list-style-type: none;
+  padding: 0px;
+}
+
+.cate_list > li {
+  padding: 10px 0px 10px 5px;
+  cursor: pointer;
+}
+
+.cate_list > li:last-child {
+  padding-bottom: 10rem;
+}
+
+.cate_list > li:hover, .active_li {
+  color: #ffffff;
+}
+
+.cate_container {
+  font-size: 1.15rem;
+  padding: 0 1rem;
+  color: #747374;
+  height: 68vh;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+  stroke-width: none;
+  &::-webkit-scrollbar {
+    display: none;;
+  }
+}
+
+

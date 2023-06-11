@@ -1,0 +1,44 @@
+.root {
+  hr {
+    margin-bottom: 1rem;
+  }
+  .orderTotalWrapper {
+    color: #ffffff;
+    background-color: #121212;
+    padding: 1rem;
+    border-radius: 10px;
+    .orderSubTotal,.orderTax {
+      margin-bottom: 1rem;
+      
+    }
+    .orderTotal, .orderTax, .orderSubTotal {
+      justify-content: space-between;
+      display: flex;
+    }
+    .orderTotal {
+      font-size: 1.25rem;
+    }
+  }
+
+  .orderFooterWrapper {
+    .orderFooter {
+      padding: 0 10px;
+      margin-top: 1rem;
+      display: flex;
+      justify-content: space-between;
+      button {
+        background-color: #ffff;
+        color: black;
+        border: none;
+        border-radius: 32px;
+        padding: 10px;
+        width: 75px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+      button:active {
+        background-color: #757575;
+      }
+    }
+  }
+}

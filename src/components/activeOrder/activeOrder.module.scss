@@ -1,0 +1,60 @@
+.root {
+  .orderBoxWrapper {
+    height: 56vh;
+    overflow-y: auto;
+    color: #ffffff;
+    background-color: #121212;
+    padding: .25rem;
+    border-radius: 10px;
+    margin-bottom: 1em;
+    &::-webkit-scrollbar {
+      width: .75rem;
+    }
+    &::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    }
+    &::-webkit-scrollbar-thumb {
+      background-color: darkgrey;
+      outline: 1px solid slategrey;
+      border-radius: 10px;
+    }
+    .orderBox {
+      background: #191919;
+      border-radius: 5px;
+      font-size: 1.125rem;
+      padding: 1rem;
+      margin: 1rem;
+      min-height: 150px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      gap: 5px;
+      .price {
+        color: #757575;
+      }
+      .qtyWrap {
+        display: flex;
+        height: 30px;
+        align-items: center;
+        button {
+          background-color: #2c2c2c;
+          border: none;
+          border-radius: 5px;
+          padding: 10px 12px;
+          cursor: pointer;
+          transition: all 0.2s ease-in-out;
+          &:active {
+            background-color: #fff;
+            box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+            svg {
+              fill: #2c2c2c;
+            }
+          }
+        }
+        span{
+          padding: .75rem;
+        }
+      }
+    }
+  }
+}

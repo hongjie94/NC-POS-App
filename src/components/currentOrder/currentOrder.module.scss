@@ -1,0 +1,75 @@
+@font-face {
+  font-family: Gilroy-ExtraBold;
+  src: url(../../assets/fonts/Gilroy-ExtraBold.otf);
+}
+
+.currentOrder {
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  .header {
+    height: 10vh;
+    background-color: #121212;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    span {
+      color: #ffffff;
+      font-family: Gilroy-ExtraBold;
+      border-radius: 5px;
+      font-size: 1.25rem;
+    }
+    .clearBtn {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: .5rem 2rem;
+      border-radius: 32px;
+      outline: none;
+      background:#2d2d2d;
+      border: none;
+      cursor: pointer;
+      outline: none;
+      .clearSvg {
+        color: #757575;
+        font-size: 1.25rem;
+      }  
+    }
+    .clearBtn:hover {
+      .clearSvg {
+        color: #ffffff;
+      }
+      scale: 1.1;
+    }
+  }
+
+  .orderNumBox {
+    padding: 0rem 2rem;
+    display: flex;
+    align-items: center;;
+    justify-content: space-between;
+    span {
+      color: #757575;
+      letter-spacing: 1px;
+      text-decoration: underline;
+    }
+    height: 5vh;
+  }
+
+  .orderContents {
+    height: 82vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 1em;
+  }
+}
+
+
+@media screen and (max-width:770px) {
+  .currentOrder {
+    display: none;
+  }
+}
+

@@ -1,0 +1,118 @@
+@font-face {
+  font-family: Gilroy-ExtraLight;
+  src: url(../../assets/fonts/Gilroy-Light.otf);
+}
+
+.mid_cate {
+  width: 100%;
+  background-color: #eaeaea;
+  color: #000000;
+  height: 100vh;
+  .header {
+    height: auto;
+    background-color: #ffffff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  .cate_div{
+    h2 {
+      letter-spacing: px;
+    }
+    span {
+      font-family: Gilroy-ExtraLight;
+      font-size: 1rem;
+      letter-spacing: 3px;
+      font-weight: 800;
+    }
+  }
+}
+
+.search_container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  form {
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  input[type="text"] {
+    padding: 10px 55px 10px 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 300px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  button {
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 15px;
+    margin-left: -50px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  button:hover {
+    background-color: #757575;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .search_container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .search_container input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .search_container button {
+    margin-left: 0;
+  }
+}
+
+.orders_wrap {
+  padding-bottom: 10rem !important;
+  margin: 2rem;
+  padding-block: 1rem;
+  place-items: center;
+  align-content: baseline;
+  margin-inline: auto;
+  display: grid;
+  row-gap: 2rem;
+  grid-template-columns: repeat(4, 1fr);
+  width: min(90%, 80em);
+  height: 100vh;
+  width: 100%;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+  stroke-width: none;
+  &::-webkit-scrollbar {
+    display: none;;
+  }
+}
+
+@media screen and (max-width:1600px) {
+  .orders_wrap {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width:1200px) {
+  .orders_wrap {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width:880px) {
+  .orders_wrap {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
